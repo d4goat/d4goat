@@ -23,7 +23,7 @@ My name is Achmadillah Yusuf and I'm a Fullstack Web Developer from Surabaya, In
 ## Most Used Languange
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4goat&layout=compact&theme=dark)
 
-## 
+## GitHub Activity Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=d4goat&bg_color=000000&color=52a35b&line=098500&point=424941&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
