@@ -33,7 +33,7 @@
 <br>
 <div align=center>
   <img height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=d4goat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhevasm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d4goat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br/><br/>
