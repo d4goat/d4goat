@@ -1,8 +1,5 @@
 ## Hi there 👋 my name is Achmadillah Yusuf and I'm a Fullstack Web Developer from Surabaya, Indonesia
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d4goat&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4goat&layout=compact&theme=dark)
-
 ![HTML5](https://img.icons8.com/color/48/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/css3.png)
 ![Tailwind](https://img.icons8.com/color/48/tailwind_css.png)
@@ -14,6 +11,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=d4goat&theme=tokyonight)
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=d4goat&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d4goat&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4goat&layout=compact&theme=dark)
 
 <!--
 **d4goat/d4goat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
