@@ -10,9 +10,7 @@
 ![React](https://img.icons8.com/color/48/react-native.png)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=d4goat&theme=tokyonight)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d4goat&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4goat&layout=compact&theme=dark)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=d4goat&bg_color=000000&color=52a35b&line=098500&point=424941&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
