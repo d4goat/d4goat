@@ -15,6 +15,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4goat&layout=compact&theme=dark)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=d4goat&bg_color=000000&color=52a35b&line=098500&point=424941&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Metrics](https://github.com/d4goat/d4goat/blob/main/github-metrics.svg)
 <!--
 **d4goat/d4goat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
