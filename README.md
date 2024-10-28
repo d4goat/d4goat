@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 my name is Achmadillah Yusuf and I'm a Fullstack Web Developer from Surabaya, Indonesia
+
+##GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d4goat&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4goat&layout=compact&theme=dark)
+
 
 <!--
 **d4goat/d4goat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
