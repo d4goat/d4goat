@@ -1,4 +1,8 @@
-## Hi there 👋 my name is Achmadillah Yusuf and I'm a Fullstack Web Developer from Surabaya, Indonesia
+## Hi there 👋 
+
+My name is Achmadillah Yusuf and I'm a Fullstack Web Developer from Surabaya, Indonesia
+
+## My Skills and My Knowledge
 
 ![HTML5](https://img.icons8.com/color/48/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/css3.png)
@@ -9,14 +13,18 @@
 ![Vue](https://img.icons8.com/color/48/vue-js.png)
 ![React](https://img.icons8.com/color/48/react-native.png)
 
+## 🔥 Statistik Kontribusi
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=d4goat&theme=tokyonight)
+
+## 📊 Statistik GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d4goat&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4goat&layout=compact&theme=dark)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=d4goat&bg_color=000000&color=52a35b&line=098500&point=424941&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🌱 Grafik Aktivitas
 
-![Metrics](https://github.com/d4goat/d4goat/blob/main/github-metrics.svg)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=d4goat&bg_color=000000&color=52a35b&line=098500&point=424941&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **d4goat/d4goat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
