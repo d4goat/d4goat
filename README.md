@@ -1,45 +1,38 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=d4goat.d4goat" />
+# Hi there, I'm d4goat 👋
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Achmadillah+Yusuf!;" />
-</h1>
+## 👨‍💻 About Me
+I'm a junior web developer and I'm a JS enthusiast.
 
-<h3 align="center">A Web Developer From Surabaya, Indonesia</h3>
+---
 
-<br/>
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,html,css,vscode,github,tailwind" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript" /><br>
-</div>
+## 📊 GitHub Stats
 
-<br/>
-<hr/>
+![d4goat's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4goat&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4goat&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=d4goat&theme=radical)
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/d4goat/d4goat/output/snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+---
 
-<hr/>
+## 🛠️ Skills
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=d4goat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d4goat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Vue
+- React
+- PHP
+- Laravel
+- Tailwindcss
+- Git & GitHub
 
-<br/><br/>
+---
 
-<hr/>
+## 🚀 Projects
 
-<br/>
+- [Project 1](https://github.com/d4goat/moviez-ukk) – A Web for purchasing movie ticket
+- [Project 2](https://github.com/d4goat/go-hijrah) – A web for learning basic knowledge of Islam
+- 
+*Update the project links and descriptions to match your favorite repositories!*
 
-<br/>
+---
+
+Thanks for visiting my profile!
